@@ -23,7 +23,7 @@ First, we concatenate the characters according to their positional characteristi
 In order to express the richer annotation features, we then translate the BIO to BMES tag, the final corpus format is shown below:  
 ```
 大学  S-ORG.NOM 
-同 O
+同    O
 宿舍  S-LOC-NOM
 三年  O
 ```
